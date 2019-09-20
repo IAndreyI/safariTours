@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'AG Benguiat Cyr';
+    src: url('AGBenguiatCyrBook.eot');
+    src: url('AGBenguiatCyrBook.eot?#iefix') format('embedded-opentype'),
+        url('AGBenguiatCyrBook.woff2') format('woff2'),
+        url('AGBenguiatCyrBook.woff') format('woff'),
+        url('AGBenguiatCyrBook.ttf') format('truetype'),
+        url('AGBenguiatCyrBook.svg#AGBenguiatCyrBook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
